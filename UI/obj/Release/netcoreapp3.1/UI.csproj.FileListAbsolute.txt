@@ -1,0 +1,132 @@
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.exe
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.exe
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.exe
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.pdb
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.exe
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.deps.json
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.dll
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\UI.pdb
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA Projekt\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.dll
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.pdb
+D:\JA Projekt\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.exe
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.deps.json
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.dll
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\UI.pdb
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.dll
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.pdb
+D:\JA_Projekt\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.exe
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.deps.json
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.json
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.runtimeconfig.dev.json
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.dll
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\UI.pdb
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt — kopia\UI\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.Form1.resources
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.Properties.Resources.resources
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.csproj.GenerateResource.cache
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.csproj.CopyComplete
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.dll
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.pdb
+D:\JA_Projekt — kopia\UI\obj\Release\netcoreapp3.1\UI.genruntimeconfig.cache

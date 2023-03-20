@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvJlsIp4/eHEct32epsepO8CqzXOQTcl/LilouGAq+N2pvirxmj3bM6rTICF711d6ISqgkRWrk2nzhAq80xMxw==",
+  "success": true,
+  "projectFilePath": "D:\\JA\\JA_Projekt\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwasn\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\kwasn\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kwasn\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

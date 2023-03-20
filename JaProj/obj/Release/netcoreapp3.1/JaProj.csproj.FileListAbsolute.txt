@@ -1,0 +1,60 @@
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Mateusz_Babiński_lab1\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\Asembler_projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+C:\Users\kwasn\OneDrive\Pulpit\ASM_backup\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
+D:\JA Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+D:\JA Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+D:\JA Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+D:\JA_Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt — kopia\JaProj\bin\Release\netcoreapp3.1\JaProj.deps.json
+D:\JA_Projekt — kopia\JaProj\bin\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt — kopia\JaProj\bin\Release\netcoreapp3.1\JaProj.pdb
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.AssemblyReference.cache
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfoInputs.cache
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.AssemblyInfo.cs
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.csproj.CoreCompileInputs.cache
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.dll
+D:\JA_Projekt — kopia\JaProj\obj\Release\netcoreapp3.1\JaProj.pdb
