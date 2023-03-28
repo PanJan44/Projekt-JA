@@ -1,5 +1,4 @@
 # Projekt-JA
-
 Projekt na przedmiot Języki Asemblerowe Polsl 2022/2023.
 Implementacja rozmazywania obrazów filtrem uśredniającym (Box Blur)
 
